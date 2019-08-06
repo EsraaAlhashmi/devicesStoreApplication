@@ -1,0 +1,9 @@
+Order ID: order0
+Date: Wed Apr 25 07:59:12 AST 2018
+Shipping Country: SA
+Shipping Cost: 100.0
+Total Price: 20800.0
+Order Status Not Confirmed
+Number Of Items: 1
+Item[1] --> item ID: d1	Price: 5200.0	Quantity: 1
+
